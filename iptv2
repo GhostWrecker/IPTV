@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,A
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6277710340001/4635b95b-b9f8-4e4b-8d5b-bd4d99271b0d/6s/master.m3u8?fastly_token=NjE2ZjI0ZTFfYjNhMWVlYjM0YjliYWU1YzI2MDgwZTBhMDIxOGYxNDBiMDEwMDQ1OGU4NzBkZjhlMTM3ZDBjMjEwZDhkZTYyZQ%3D%3D
+#EXTINF:-2,B
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6277710340001/890eeeef-6b3d-41d9-ba2a-738823e9a3f7/6s/master.m3u8?fastly_token=NjE2ZjIzNTBfMDFkMzhjYTA0MzlkMDU3OTc4ZTEwNmNmM2I4MDg4MGI3NGUwODMzMGZlOTYxYmEyNDJjMGQ4N2FmZTY0MGY1Nw%3D%3D
